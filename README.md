@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hello, World! 
 
+- 👋 Hey there, I'm Manas Trivedi
 - 🔭 I’m currently working on my Open Source Contributions
 - 🌱 I’m currently learning Javascript and its implementation in the working of Web
 <!-- 
